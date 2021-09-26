@@ -1,0 +1,61 @@
+Conqueror of the League v.1.0    
+
+_________                                                         
+\_   ___ \  ____   ____   ________ __   ___________  ___________  
+/    \  \/ /  _ \ /    \ / ____/  |  \_/ __ \_  __ \/  _ \_  __ \ 	Entrena a tu carta y derrota a todos
+\     \___(  <_> )   |  < <_|  |  |  /\  ___/|  | \(  <_> )  | \/ 	tus rivales hasta conquistar la liga.
+ \______  /\____/|___|  /\__   |____/  \___  >__|   \____/|__|    
+        \/            \/    |__|           \/                     
+		        _____    __  .__                          	Entrena contra los personajes que te                 
+		  _____/ ____\ _/  |_|  |__   ____                      encuentres, lucha contra los líderes          
+		 /  _ \   __\  \   __\  |  \_/ __ \                     derrota a las élites para subir de nivel.
+		(  <_> )  |     |  | |   Y  \  ___/                               
+		 \____/|__|     |__| |___|  /\___  >                    Tendrás que tener cuidado de contra
+                		          \/     \/                     quién te enfrentas o podrás perder niveles.        
+.____     ___________   _____    ________ ____ ______________     	Los combates son mediante fórmulas matemáticas
+|    |    \_   _____/  /  _  \  /  _____/|    |   \_   _____/     	es posible que pierdas a la primera, pero
+|    |     |    __)_  /  /_\  \/   \  ___|    |   /|    __)_      	que en la siguiente ronda puedas ganar.
+|    |___  |        \/    |    \    \_\  \    |  / |        \     	Existe la aleatoriedad.
+|_______ \/_______  /\____|__  /\______  /______/ /_______  /     
+        \/        \/         \/        \/                 \/        
+
+
+***************************
+* Cómo ejecutar el juego: *
+***************************
+
+Windows:
+========
+
+1.- Extrae los archivos del comprimido en una carpeta.
+2.- Ejecuta el archivo Ejecutable.bat
+
+Una consola del sistema se abrirá. Ahora podrás jugar.
+
+Nota: Los dos archivos, ejecutable.bat y Conqueror.jar deben estar en el mismo directorio para que funcione.
+
+
+Linux:
+======
+
+1.- Extrae la carpeta ConquerorOfTheLeague. Lo más cómodo es hacerlo en "Carpeta Personal".
+2.- Abre el terminal.
+3.- Accede a la ruta del archivo. Si la carpeta ConquerorOfTheLeague está en "Carpeta Personal" escribe "cd ConquerorOfTheLeague.
+4.- Una vez estes en el directorio escribe en la consola lo siguiente: "java -jar Conqueror.jar".
+
+Cuidado con las mayúsculas.
+
+
+
+*****************
+*     Notas:    *
+*****************
+
+En el caso de que haya algún tipo de problema, prueba a descargar la última versión de Java.
+Es posible descargarlo desde el siguiente link: 
+http://www.java.com/es/download/
+
+El juego ha sido programado en Java 7.
+
+
+12/05/2013
