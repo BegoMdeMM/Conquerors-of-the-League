@@ -2,7 +2,7 @@
 
 **[ES]** Este es un proyecto para la asignatura Programación Modular Orientada a Objetos (PMOO) que hicimos en la facultad. Usamos Maquinas Abstractas de Datos (MAE), Tipos Abstractos de Datos (TAD), Estructuras de Datos (ArrayList en particular), Herencia, Excepciones y Pruebas Unitarias (Junits).
 
-**[EN]**This is a project for the Object Oriented Modular Programming (OOMP) course we did in college. We used Abstract Data Machines (ADM), Abstract Data Types (ADT), Data Structures (ArrayList in particular), Inheritance, Exceptions and Unit Tests (Junits).
+**[EN]** This is a project for the Object Oriented Modular Programming (OOMP) course we did in college. We used Abstract Data Machines (ADM), Abstract Data Types (ADT), Data Structures (ArrayList in particular), Inheritance, Exceptions and Unit Tests (Junits).
 
 ## Introduccion
 
@@ -25,14 +25,19 @@ Tenemos que comentar que este juego no tiene fin. En un principio se gana cuando
 ## Estructura de directorios
 
     .
-    ├── Proyecto Conquerors JAVA        # Proyecto completo. Puedes añadirlo a Eclipse o tu IDE favorito.
-    │   ├── src                         # Código fuente del juego.
-    │   └── test                        # Pruebas unitarias para todos los módulos del juego.
+    ├── Proyecto Conquerors JAVA                # Proyecto completo. Puedes añadirlo a Eclipse o tu IDE favorito.
+    │   ├── src                                 # Código fuente del juego.
+    │   └── test                                # Pruebas unitarias para todos los módulos del juego.
     ├── Compilacion y Ejecutable
-    │   ├── Conqueror.jar               # El juego encapsulado en un fichero jar.
-    │   ├── ejecutable.bat              # El script para Windows que debes ejecutar si quieres jugar.
-    │   └── Read Me.txt                 # Instrucciones.
+    │   ├── Conqueror.jar                       # El juego encapsulado en un fichero jar.
+    │   ├── ejecutable.bat                      # El script para Windows que debes ejecutar si quieres jugar.
+    │   └── Read Me.txt                         # Instrucciones.
+    ├── Diagrama de secuencia.pdf               # Diagramas de secuencia.
+    ├── Diagramas.pdf                           # Diagramas de clases.
+    ├── Memoria Conquerors of the League.pdf    # Memoria. Toda la información explicada
+    ├── Tablas de daño de ataque... .ods        # Tablas de ataque. Fichero de Excel.
     └── README.md
+    Tablas de daño de ataque para cartas
 
 
 ##¿Cómo ejecutar el juego?
@@ -44,7 +49,7 @@ Tenemos que comentar que este juego no tiene fin. En un principio se gana cuando
 Si quieres jugar en Windows...
 
 ```sh
-Just execute the file ZombieRising.bat
+Just execute the file ejecutable.bat
 ```
 
 Si no confías en los ficheros ejecutables, puedes clonar este repositorio y añadir el código fuente en tu Entorno de Desarrollo favorito. Recuerda que lo programamos usando Java 1.7.
