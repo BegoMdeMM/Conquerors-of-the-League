@@ -68,12 +68,18 @@ Lo mismo de antes, si no confías en los ejecutables, usa tu IDE favorito.
 
 Este proyecto lo hicimos en grupo en 2013. Tal vez quieras visitar el portfolio de Github de algunos de sus creadores:
 
-### Authors:
+### Autores:
 
 
 - [BegoMdeMM](https://github.com/BegoMdeMM)
 - [mbarcina001](https://github.com/mbarcina001)
 - [jagumiel](https://github.com/jagumiel)
+
+### Para tu interés
+
+Si tienes más interés sobre este proyecto, puedes leerte la memoria que redactamos en su día.
+Del mismo modo, también puedes echar una ojeada a los diagrams de clases y de secuencia.
+Dejamos también a tu disposición las tablas de ataque. Se trata de un Excel en las que especificamos el tipo de ataque y el daño que hace en función a qué otro tipo se enfenten. Para entender el juego, puede ser útil, pero si vas a jugar, mejor que lo ignores, será más divertido.
 
 
 
