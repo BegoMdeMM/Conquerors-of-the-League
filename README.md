@@ -40,7 +40,7 @@ Tenemos que comentar que este juego no tiene fin. En un principio se gana cuando
     Tablas de daño de ataque para cartas
 
 
-##¿Cómo ejecutar el juego?
+## ¿Cómo ejecutar el juego?
 
 ¿Quieres jugar? Te diremos como... Para Windows o para Linux.
 
